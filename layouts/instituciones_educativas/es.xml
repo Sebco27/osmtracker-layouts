@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="Guardería" icon="/instituciones_educativas_icons/guarderia.png" />
+			<button type="tag" label="Kinder" icon="/instituciones_educativas_icons/guarderia.png" />
+			<button type="tag" label="Escuela" icon="/instituciones_educativas_icons/escuela.png" />
+		</row>
+		<row>
+			<button type="tag" label="Colegio" icon="/instituciones_educativas_icons/colegio.png" />
+			<button type="tag" label="Universidad" icon="/instituciones_educativas_icons/universidad.png" />
+		</row>
+	</layout>
+
+</layouts>
