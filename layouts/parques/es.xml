@@ -22,7 +22,7 @@
 		</row>
 		<row>
 			<button type="tag" label="Luz" icon="/parques_icons/luz.png" />
-			<button type="tag" label="Cámara" icon="/parques_icons/camara.png" />
+			<button type="tag" label="Cámara" icon="/parques_icons/camara.jpg" />
 		</row>
 		<row>
 			<button type="tag" label="Parada de bus" icon="/parques_icons/parada_bus.png" />
